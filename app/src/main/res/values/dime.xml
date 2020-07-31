@@ -5,4 +5,5 @@
         <dimen name="ancho_boton">180dp</dimen>
         <dimen name="align_right">50</dimen>
         <dimen name="align_left">50</dimen>
+
 </resources>

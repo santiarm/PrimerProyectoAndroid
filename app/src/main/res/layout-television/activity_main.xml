@@ -37,4 +37,5 @@
         android:textColor="@android:color/background_light"
         android:textSize="44sp"
         android:textStyle="bold" />
+
 </RelativeLayout>

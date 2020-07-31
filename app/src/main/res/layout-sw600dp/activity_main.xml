@@ -33,8 +33,9 @@
         android:text="@string/title"
         android:textAllCaps="false"
         android:textColor="@android:color/background_light"
-        android:textSize="74dp"
+        android:textSize="74sp"
         android:textStyle="bold" />
+
 
 
 </RelativeLayout>
