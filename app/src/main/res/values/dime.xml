@@ -1,0 +1,8 @@
+<resources>
+        <dimen name="activity_horizontal_margin">16dp</dimen>
+        <dimen name="activity_vertical_margin">16dp</dimen>
+        <dimen name="alto_boton">60dp</dimen>
+        <dimen name="ancho_boton">180dp</dimen>
+        <dimen name="align_right">50</dimen>
+        <dimen name="align_left">50</dimen>
+</resources>
